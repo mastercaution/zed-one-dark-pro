@@ -59,6 +59,8 @@
         "editor.line_number": "#495162",
         "editor.active_line_number": "#abb2bf",
         "editor.invisible": null,
+        "editor.indent_guide": "#3b4048",
+        "editor.indent_guide_active": "#c8c8c859",
         "editor.wrap_guide": "#3e4452",
         "editor.active_wrap_guide": "#3e4452",
         "editor.document_highlight.read_background": "#555a6345",
